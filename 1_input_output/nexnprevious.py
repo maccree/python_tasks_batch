@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+'''
+We ask the user for their number and write it to the 'numb' variable. Next, we create two new variables: next(this is the user's number +1) and previous(this is the user's number -1)
+and output a message With this data
+'''
+
 
 numb = int(input('Your number: '))
 
