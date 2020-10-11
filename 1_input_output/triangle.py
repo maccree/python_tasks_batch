@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
-print('S = 1/2*bh')
-
 '''
 'b' -  is one of catite
 'h' is the height, but for a right-angled triangle it is also a catite that is opposite to 'b'
 '''
+print('S = 1/2*bh')
+
 
 b = int(input('b = '))
 h = int(input('h = '))
